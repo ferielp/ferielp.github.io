@@ -2,11 +2,9 @@
 
 # website settings
 website:
-  title: "Feriel Presswalla, BS"                                # Your name
+  title: "Feriel Presswalla"                      # Your name
   description: "Feriel is a PhD pre-candidate at the Case Western Reserve University School of Medicine, in the Clinical Translational Science Program"   # A brief slogan (optional)
   image: img/Headshot.jpg
-  
-  favicon: img/favicon.png
   
   # start of the navigation bar at the top of the website
   navbar:
@@ -15,10 +13,10 @@ website:
     
     # your sub-pages
     left:
-      - text: "Projects"
-        href: projects/index.qmd
-      - text: "Photography"
-        href: photography/index.qmd
+      - text: "Research Experience"
+        href: research experience/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
       - text: "CV"
         href: cv/index.qmd
     
@@ -28,8 +26,10 @@ website:
         href: https://www.linkedin.com/in/ferielpresswalla/
       - icon: orcid
         href: https://orcid.org/0000-0001-7190-5622
-      - icon: google scholar
+      - icon: google
         href: https://scholar.google.com/citations?hl=en&user=alq3y1cAAAAJ
+      - icon: github
+        href: https://github.com/ferielp/
       - icon: envelope
         aria-label: email
         href: "mailto:fxp124@case.edu"  
@@ -45,7 +45,8 @@ website:
       <span class="faux-block">&#169; 2024 Feriel Presswalla CC </span>
     center: |
     right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block"><a href="- icon: github
+        href: https://github.com/ferielp/"></a></span>
 
 project:
   type: website

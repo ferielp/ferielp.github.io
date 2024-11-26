@@ -9,6 +9,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ferielpresswalla/
+    - icon: github
+      href: https://github.com/ferielp/
     - icon: envelope
       text: Email
       href: "mailto:fxp124@case.edu"  
