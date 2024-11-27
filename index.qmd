@@ -25,7 +25,7 @@ about:
 ::: {#about-block}
 # Welcome to my website!
 
-I am Feriel Presswalla, a first-year PhD student in the Clinical Translational Program at the Case Western Reserve University School of Medicine. After a 9-year stint working full-time as a Research Specialist in various wet labs, I am back in school to develop skills relevant to translating findings from the bench to bedside care. On this website, I offer a glimpse into my background, ongoing research, and publications.
+I am Feriel Presswalla, a first-year PhD student in the Clinical Translational Program at the Case Western Reserve University School of Medicine. After a 9-year stint working full-time as a Research Specialist in various basic science wet labs, I am back in school to develop skills relevant to translating discoveries from the bench into bedside care. On this website, I offer a glimpse into my background, ongoing research, and publications.
 
 Please feel free to [contact me](mailto:fxp124@case.edu) if you have any questions or would like to discuss potential projects.
 :::
