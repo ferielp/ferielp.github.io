@@ -3,7 +3,7 @@ title: "Publications & Presentations"
 ---
 
 | Journal Papers | DOI/Link |
-|------------------------------------------------------|------------------|
+|-----------------------------------------------------|-------------------|
 | Christina G Hutten, ..., **Feriel Presswalla**, ..., Salim S Hayek, Obesity, Inflammation, and Clinical Outcomes in COVID-19: A Multicenter Prospective Cohort Study, *The Journal of Clinical Endocrinology & Metabolism*. 2024; 09(11):p 2745–2753. | [10.1210/clinem/dgae273](https://doi.org/10.1210/clinem/dgae273) |
 | Athanasios Chalkias, ..., **Feriel Presswalla**, ..., Mousumi Banerjee, Rodica Pop-Busui, Salim Hayek; on behalf of the International Study of Inflammation in COVID-19 (ISIC) Investigator Group. Intubation Decision Based on Illness Severity and Mortality in COVID-19: An International Study\*. *Critical Care Medicine.* 2024; 52(6):930-941. | [10.1097/CCM.0000000000006229](https://journals.lww.com/ccmjournal/abstract/2024/06000/intubation_decision_based_on_illness_severity_and.8.aspx) |
 | Alexi Vasbinder,..., **Feriel Presswalla**,..., Salim Hayek. SuPAR, biomarkers of inflammation, and severe outcomes in patients hospitalized for COVID-19: The International Study of Inflammation in COVID-19. *Journal of Medical Virology*. 2024; 96:e29389 | [10.1002/jmv.29389](https://doi.org/10.1002/jmv.29389) |
@@ -17,10 +17,10 @@ title: "Publications & Presentations"
 |  |  |
 
 | Conference Presentations | DOI/Link |
-|-------------------------------------------------------|-----------------|
+|------------------------------------------------------|------------------|
 | Kingsley Amadi,..., **Feriel Presswalla**,..., Salim Hayek. 20-LB: Impact of Optimal Medical Therapy, Insulin Sensitization, and Revascularization Strategies on Soluble Urokinase Plasminogen Activator Receptor and Its Association with Cardiovascular Outcomes—A BARI-2D Ancillary Study. *Diabetes.* 2023; 72 | [10.2337/db23-20-LB](https://doi.org/10.2337/db23-20-LB) |
 | **Feriel Presswalla**,..., Salim Hayek. Soluble urokinase plasminogen activator receptor induces a proatherogenic profile in myeloid cells. *Journal of the American College of Cardiology*. 2023; 81 (8):1203. | [10.1016/S0735-1097(23)01647-9](https://doi.org/10.1016/S0735-1097(23)01647-9) |
-| Medha Tripathi, ..., **Feriel Presswalla**, ..., Salim Hayek. Measuring the levels of the cardiac biomarker suPAR (soluble urokinase plasminogen activator receptor) to predict the risk of aortic aneurysms. *Journal of the American College of Cardiology*. 2023; 81 (8):1844. | [doi.org/10.1016/S0735-1097(23)02288-X](https://doi.org/10.1016/S0735-1097(23)02288-X) |
+| Medha Tripathi, ..., **Feriel Presswalla**, ..., Salim Hayek. Measuring the levels of the cardiac biomarker suPAR (soluble urokinase plasminogen activator receptor) to predict the risk of aortic aneurysms. *Journal of the American College of Cardiology*. 2023; 81 (8):1844. | [10.1016/S0735-1097(23)02288-X](https://doi.org/10.1016/S0735-1097(23)02288-X) |
 | Grace Erne, ..., **Feriel Presswalla**, ..., Salim Hayek. Levels of soluble urokinase plasminogen activator receptor and heart failure outcomes in patients with type-2 diabetes and worsening heart failure treated with sotagliflozin, a dual inhibitor of sodium glucose cotransporters 1 and 2. *Journal of the American College of Cardiology*. 2023; 81 (8):664. | [10.1016/S0735-1097(23)01108-7](https://doi.org/10.1016/S0735-1097(23)01108-7) |
 | Qitao Zhang, **Feriel Presswalla**,..., David Zacks, Robin Ali, Debra Thompson, Jason Miller. Highly Differentiated Human Fetal RPE Cultures Are Resistant to the Accumulation and Toxicity of Lipofuscin-Like Material. *Investigative Ophthalmology & Visual Science* 2019;60(10):3468-3479. | [10.1167/iovs.19-26690](https://doi.org/10.1167/iovs.19-26690) |
 | Qitao Zhang, **Feriel Presswalla**,..., David Zacks, Robin Ali, Debra Thompson, Jason Miller. A primary retinal pigment epithelial culture model for evaluating therapeutic targets in dry macular degeneration. *Investigative Ophthalmology & Visual Science* 2019;60(9),1718-1718. | <https://iovs.arvojournals.org/article.aspx?articleid=2563181> |
