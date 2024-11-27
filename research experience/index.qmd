@@ -1,28 +1,67 @@
 ---
-title: Projects
+title: Research Experience
 ---
 
-## The Languages of Middle-earth
+## Research Lab Specialist in the laboratory of Dr. Salim Hayek
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+**Frankel Cardiovascular Center, University of Michigan – Ann Arbor**
 
-<a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
+**2022 - 2024**
 
-Over the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion.
+<img src="Hayek Lab Christmas Gift.png" onclick="window.open(&apos;https://hayek.lab.medicine.umich.edu/&apos;, &apos;blank&apos;);" style="object-fit: contain" width="70%"/>
 
-----
+<a href="https://hayek.lab.medicine.umich.edu/" target="_blank">Hayek Lab</a> \| <a href="https://hayek.lab.medicine.umich.edu/publications" target="_blank">Publications</a><br>
 
-## The History of the War of the Ring
+Investigating suPAR as a stable biomarker of inflammation, using in vivo and in vitro models to predict a patient’s risk for CKD, CVD and COVID.
 
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+## Research Lab Specialist in the laboratory of Dr. Jason M.L. Miller
 
-<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
+**Kellogg Eye Center, University of Michigan – Ann Arbor**
 
-I am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth's history and provide valuable insights into the motivations and actions of the various players involved.
+**2015 - 2021**
 
+![](images/Kellogg-Eye_Logo-Horizontal-CMYK.png){width="80%"}
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
+<a href="https://jasonmiller.lab.medicine.umich.edu/home" target="_blank">Miller Lab</a> \| <a href="https://jasonmiller.lab.medicine.umich.edu/research/publications" target="_blank">Publications</a><br>
+
+Investigating the effect of autophagy induction on dry Age-related Macular Degeneration (AMD) using an in vitro retinal pigment epithelium (RPE) model. Examining the differences in transcriptome and secretome of human fetal and adult RPE cultures.
+
+------------------------------------------------------------------------
+
+## Undergraduate Research Assistant in the laboratory of Dr. Martin Sarter
+
+**Dept. of Neuroscience, University of Michigan – Ann Arbor**
+
+**2015**
+
+![](images/clipboard-804884069.png){width="70%"}
+
+<a href="https://sites.lsa.umich.edu/msarter/" target="_blank">Sarter Lab</a>
+
+Investigated the function of fast cholinergic release transients in the neural substrates and circuitry of cue detection in the basal forebrain, using lesions and optogenetics in a rat model.
+
+------------------------------------------------------------------------
+
+## Cardiovascular Center Undergraduate Fellow in the laboratory of Dr. Todd Herron
+
+**Cardiovascular Regeneration Core, University of Michigan – Ann Arbor**
+
+**2014**
+
+![](images/SJ-Frankel-CVC_Logo-Horizontal-CMYK.png){width="120%"}<a href="https://sites.google.com/umich.edu/cardio-regen-corelab/about-us" target="_blank">Cardiovascular Regeneration Core</a> \| <a href="https://sites.google.com/umich.edu/cardio-regen-corelab/about-us/publications" target="_blank">Publications</a><br>
+
+Human Induced Pluripotent Stem Cell (hiPSC) Cardiac Research; hiPSC-cardiomyocyte (hiPSC-CM) maturation; 2D microtissue engineering.
+
+------------------------------------------------------------------------
+
+## Undergraduate Research Assistant in the laboratory of Dr. Steven R. Buchman
+
+**Craniofacial Lab, University of Michigan – Ann Arbor**
+
+**2013 - 2015**
+
+![](images/Michigan-Medicine_Logo-Horizontal-CMYK.png){width="80%"}
+
+<a href="https://medresearch.umich.edu/labs-departments/labs/craniofacial-lab" target="_blank">Craniofacial Lab</a> \| <a href="https://medresearch.umich.edu/labs-departments/labs/craniofacial-lab/publications">Publications</a><br>
+
+Rounded and radiated lab animals, performed Microfil perfusions and X-rays, processed microCT scans, calculated vascular metrics, maintained mc3T3, ADSC cell lines, stained cells for microscopy. Joined as an Undergraduate Research Opportunity Program student, continued as a Research Assistant.
