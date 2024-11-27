@@ -9,30 +9,34 @@ website:
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+ 
     
     # your sub-pages
     left:
+      - text: "Education"
+        href: education/index.qmd
       - text: "Research Experience"
         href: research experience/index.qmd
-      - text: "Publications"
+      - text: "Publications & Presentations"
         href: publications/index.qmd
       - text: "CV"
         href: cv/index.qmd
     
     # your social media handles
     right:
-      - icon: linkedin
-        href: https://www.linkedin.com/in/ferielpresswalla/
-      - icon: orcid
-        href: https://orcid.org/0000-0001-7190-5622
-      - icon: google
-        href: https://scholar.google.com/citations?hl=en&user=alq3y1cAAAAJ
-      - icon: github
-        href: https://github.com/ferielp/
-      - icon: envelope
-        aria-label: email
-        href: "mailto:fxp124@case.edu"  
+    
+    - icon: linkedin
+      href: https://www.linkedin.com/in/ferielpresswalla/
+    - icon: mortarboard
+      href: https://scholar.google.com/citations?hl=en&user=alq3y1cAAAAJ
+    - icon: flower2
+      href: https://orcid.org/0000-0001-7190-5622
+    - icon: archive
+      href: https://www.researchgate.net/profile/Feriel-Presswalla
+    - icon: github
+      href: https://github.com/ferielp/
+    - icon: envelope
+      href: "mailto:fxp124@case.edu"  
   
   
 
