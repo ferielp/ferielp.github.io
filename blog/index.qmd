@@ -1,0 +1,19 @@
+---
+title: Blog
+---
+
+## PhD Clinical Translational Science (ongoing)
+
+**February 9th, 2025**
+
+This website started out as an assignment for a first-year statistics course, which unbeknownst to me has provided more in the way of mentorship and career guidance than several of my rotations. The course was structured with thought and care put towards building far-reaching research skills accessed through various statistical concepts (reproducibility in research: code and version management. Communicating facts in the data: how to design and describe plots without bias). The instructor’s hope, which I now share, is that this website will serve as the cornerstone for a continuing and flourishing online professional presence. In furtherance of this goal, we were also assigned to read the Jeff Leeks book “[How to Be a Modern Scientist](https://leanpub.com/modernscientist).”
+
+It is a proselytism urging academics to utilize the internet to cement the reproducibility of their data, open-source their methods and code, and critique each other in view of the public, connecting with laymen where they are and engaging their audience in entertaining ways. While I am used to scribbling notes in the margins of my books, I will take this opportunity to synthesize my scribbled notes into a review of the points Leeks made that most caught my attention, with the view that perhaps, they will catch yours.
+
+1.  How do preprints really work?\
+    \
+
+2.  What does a good peer review look like?\
+    \
+
+3.  A reminder to create literate programming habits (Plan to learn how to use jupyter for “literate programming”)
