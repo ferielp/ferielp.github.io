@@ -48,7 +48,9 @@ Investigated the function of fast cholinergic release transients in the neural s
 
 **2014**
 
-![](images/SJ-Frankel-CVC_Logo-Horizontal-CMYK.png){width="120%"}<a href="https://sites.google.com/umich.edu/cardio-regen-corelab/about-us" target="_blank">Cardiovascular Regeneration Core</a> \| <a href="https://sites.google.com/umich.edu/cardio-regen-corelab/about-us/publications" target="_blank">Publications</a><br>
+![](images/SJ-Frankel-CVC_Logo-Horizontal-CMYK.png)
+
+<a href="https://sites.google.com/umich.edu/cardio-regen-corelab/about-us" target="_blank">Cardiovascular Regeneration Core</a> \| <a href="https://sites.google.com/umich.edu/cardio-regen-corelab/about-us/publications">Publications</a><br>
 
 Human Induced Pluripotent Stem Cell (hiPSC) Cardiac Research; hiPSC-cardiomyocyte (hiPSC-CM) maturation; 2D microtissue engineering.
 
