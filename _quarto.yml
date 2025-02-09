@@ -21,6 +21,8 @@ website:
         href: publications/index.qmd
       - text: "CV"
         href: cv/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
     
     # your social media handles
     right:
