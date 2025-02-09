@@ -69,7 +69,7 @@ execute:
 
 format:
   html:
-    fontsize: 1.1em
+    fontsize: 1em
     theme: 
       - pulse
       - html/styles.scss
