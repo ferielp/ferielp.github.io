@@ -21,6 +21,6 @@ It is a proselytism urging academics to utilize the internet to cement the repro
     Don't agree to be a reviewer if you cannot turn it around in 1-2 weeks. Don't write reams of prose. Don't ask for revisions if you don't plan on accepting the manuscript regardless of whether the authors make the changes you request. Do unto others...and all that.\
     BONUS: If a peer reviews a paper in the forest and no one sees them do it, did it happen? Get credit for your contributions to academic rigor by making a Publons profile and sending them the email in which you are thanked for your review. Even commenting on papers as a casual peer on PubMed Commons will get you credit.\
 
-3.  Create literate programming habits (Plan to learn how to use jupyter for “literate programming”)
+3.  Create literate programming habits
 
     Coming from a basic science background, I have a love-hate relationship with The Lab Notebook. It can make or break your sanity when you try to reproduce how you reasoned through various iterations of an experiment 3 years after you did it. I have learned to chronicle the process of my coding and analyses both for my future self and for colleagues I might need to present to, using Quarto and RMarkdown. Leeks also suggest we become familiar with the Jupyter notebook platform, which is certainly on my to-do list. After learning how to use python, I suppose.
