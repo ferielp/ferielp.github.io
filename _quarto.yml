@@ -48,7 +48,7 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2024 Feriel Presswalla CC </span>
+      <span class="faux-block">&#169; 2025 Feriel Presswalla CC </span>
     center: |
     right: |
       <span class="faux-block"><a href="- icon: github
@@ -69,7 +69,7 @@ execute:
 
 format:
   html:
-    fontsize: 0.9em
+    fontsize: 1em
     theme: 
       - pulse
       - html/styles.scss
